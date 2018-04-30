@@ -1,0 +1,40 @@
+KeySig C
+
+Tempo 60
+
+Begin Solo-Right
+    Voice Piano1
+    Channel 4
+End
+
+Begin Solo-Left
+    Voice Piano1
+    Channel 3
+End
+
+Groove CasioMetronome6
+
+z
+z
+z
+
+//Groove Waltz
+//1 C
+//2 G
+//3 C
+
+MIDIinc file=silentnight2.midi Solo-Right=2  Solo-Left=4 Volume=120
+//Groove Waltz
+1  C
+2  C
+3  G
+4  C C7
+5  F
+6  C
+7  F
+8  C
+9  G G7
+10 C
+11 C G7
+12 C
+
